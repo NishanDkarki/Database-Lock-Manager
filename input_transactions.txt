@@ -1,0 +1,9 @@
+0
+Start 0
+Start 1
+Read 0 0
+Read 1 1
+Write 1 0
+Write 0 1
+Commit 1
+EOF
